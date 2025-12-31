@@ -141,8 +141,30 @@ Essas limitações são **aceitáveis dentro de aplicações biomédicas ou indu
 ---
 
 ## 8. Conclusão
-
+<p align="center">
+  <img src=""/>
+</p>
 Este trabalho apresenta o **desenvolvimento conceitual de um bracelete vestível avançado**, integrando bioimpedância elétrica, engenharia mecânica e ergonomia. A estrutura cilíndrica fechada com mecanismo retrátil garante **contato estável e repetível**, essencial para monitoramento metabólico contínuo. O dispositivo se distingue de wearables convencionais por seu foco em **metabolismo como núcleo**, modularidade e robustez industrial, estabelecendo base sólida para futuras implementações, prototipagem e validação experimental em ambientes biomédicos ou técnicos.
+
+
+
+## 9. Inspiração 
+
+<p align="center">
+  <img src=""/>
+</p>
+
+<p align="center">
+  <img src=""/>
+</p>
+
+<p align="center">
+  <img src=""/>
+</p>
+
+<p align="center">
+  <img src=""/>
+</p>
 
 ---
 
