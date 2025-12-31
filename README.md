@@ -141,9 +141,11 @@ Essas limitações são **aceitáveis dentro de aplicações biomédicas ou indu
 ---
 
 ## 8. Conclusão
+
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/heryon/Project_Aegle/blob/b094181647709e6ad43aa5bece157d597a86f641/Reformulando_o_conceito.png" width=500 height=500/>
 </p>
+
 Este trabalho apresenta o **desenvolvimento conceitual de um bracelete vestível avançado**, integrando bioimpedância elétrica, engenharia mecânica e ergonomia. A estrutura cilíndrica fechada com mecanismo retrátil garante **contato estável e repetível**, essencial para monitoramento metabólico contínuo. O dispositivo se distingue de wearables convencionais por seu foco em **metabolismo como núcleo**, modularidade e robustez industrial, estabelecendo base sólida para futuras implementações, prototipagem e validação experimental em ambientes biomédicos ou técnicos.
 
 
@@ -151,19 +153,23 @@ Este trabalho apresenta o **desenvolvimento conceitual de um bracelete vestível
 ## 9. Inspiração 
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/heryon/Project_Aegle/blob/b094181647709e6ad43aa5bece157d597a86f641/Bracelete_04.png" width=500 height=500/>
 </p>
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/heryon/Project_Aegle/blob/b094181647709e6ad43aa5bece157d597a86f641/Bracelete_03_0.png" width=500 height=500/>
 </p>
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/heryon/Project_Aegle/blob/b094181647709e6ad43aa5bece157d597a86f641/Bracelete_02.png"width=500 height=500/>
 </p>
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/heryon/Project_Aegle/blob/b094181647709e6ad43aa5bece157d597a86f641/Bracelete_01.png"width=500 height=500/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/heryon/Project_Aegle/blob/b094181647709e6ad43aa5bece157d597a86f641/Bracelete_Desenho_tecnico.png"/>
 </p>
 
 ---
